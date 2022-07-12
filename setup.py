@@ -7,3 +7,4 @@ setup(
   license="MIT License",
   description="This is my capstone project for the Big Data and Machine Learning program.",
   packages=["DeepLearning"]
+)
