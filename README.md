@@ -1,2 +1,2 @@
-# Deep-Learning-Project
-This is my deep learning project.
+# Capstone-Project
+Here is our capstone project using the World Happiness Report dataset on Kaggle. 
